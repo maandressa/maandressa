@@ -3,7 +3,7 @@ Olá, me chamo Andressa Mariza e sou uma estudante de desenvolvimento web em bus
 
 <div align= "center">
 <a href="https://github.com/maandressa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maandressa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maandressa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maandressa&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
