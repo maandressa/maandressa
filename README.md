@@ -14,7 +14,7 @@ Olá, me chamo Andressa Mariza e sou uma estudante de desenvolvimento web em bus
   <img align="center" alt="andressa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
  </div>
  <div>
-   <img align="right" height="200" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_T5NRhUEf.png">
+   <img align="right" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_T5NRhUEf.png">
   </div>
   
   ##
