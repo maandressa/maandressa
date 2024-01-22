@@ -1,4 +1,4 @@
-Olá, me chamo Andressa Mariza e sou uma estudante de desenvolvimento web em busca de recolocação ⚡👯
+Olá, me chamo Andressa⚡👯
 ##
 
 <div align= "center">
