@@ -10,10 +10,7 @@ Olá, me chamo Andressa⚡👯
   <img align="center" alt="andressa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="andressa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
  </div>
- <div>
-   <img align="right" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_T5NRhUEf.png">
-  </div>
-  
+ 
   ##
   
  <div>
