@@ -1,10 +1,11 @@
 Olá, me chamo Andressa⚡👯
 ##
 
-<div align= "center">
-<a href="https://github.com/maandressa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maandressa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maandressa&layout=compact&langs_count=7&theme=cobalt"/>
+<div align="center">
+  <a href="https://github.com/maandressa">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maandressa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maandressa&layout=compact&langs_count=7&theme=cobalt"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="andressa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
